@@ -1,9 +1,9 @@
 {
-  "version": "4.0.0",
-  "url": "https://github.com/EricOptimizer/winoptimizer-updates/releases/download/v4.0.0/WinOptimizer_Pro_v4.exe",
+  "version": "5.0.0",
+  "url": "",
   "notas": {
-    "ES": "🎉 Nueva versión v4.0 — Nueva pestaña RAM & Servicios, monitor en tiempo real, control de SysMain",
-    "EN": "🎉 New version v4.0 — New RAM & Services tab, real-time monitor, SysMain control",
-    "RO": "🎉 Versiune nouă v4.0 — Filă nouă RAM & Servicii, monitor în timp real, control SysMain"
+    "ES": "🎉 Nueva versión v5.0 (te ayuda a que Windows use solo 1GB de RAM)",
+    "EN": "🎉 New version v5.0 (helps Windows use only 1GB of RAM)",
+    "RO": "🎉 Versiune nouă v5.0 (te ajută ca Windows să folosească doar 1GB de RAM)"
   }
 }
