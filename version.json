@@ -1,9 +1,9 @@
 {
-  "version": "5.0.0",
-  "url": "",
+  "version": "6.0",
+  "url": "https://payhip.com/EricOptimizer",
   "notas": {
-    "ES": "🎉 Nueva versión v5.0 (te ayuda a que Windows use solo 1GB de RAM)",
-    "EN": "🎉 New version v5.0 (helps Windows use only 1GB of RAM)",
-    "RO": "🎉 Versiune nouă v5.0 (te ajută ca Windows să folosească doar 1GB de RAM)"
+    "ES": "🎉 Nueva versión v6.0 — Tab Revertir tweaks, Editor personalizado, soporte 4K",
+    "EN": "🎉 New version v6.0 — Revert tab, Custom editor, 4K support",
+    "RO": "🎉 Versiune nouă v6.0 — Tab Revenire, Editor personalizat, suport 4K"
   }
 }
